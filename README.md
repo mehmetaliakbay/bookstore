@@ -5,5 +5,5 @@
 - [x] Implement a Restful Api to remove book from bookstore
 - [x] Implement a Restful Api to change book's category
 - [x] Unit Tests, Integration Tests expected
-- [x] Documentation your API(plus)
-- [ ] Use Docker to run in a container (plus)
+- [x] Documentation your API
+- [ ] Use Docker to run in a container 
