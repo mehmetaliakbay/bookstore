@@ -1,0 +1,9 @@
+- [x] Implement a Restful Apis to create a category, book, bookstore
+- [x] Implement a Restful Apis to list all categories, books, bookstores
+- [x] Implement a Restful Apis to list books according to category and/or bookstore
+- [x] Implement a Restful Api to add a book to the bookstore
+- [x] Implement a Restful Api to remove book from bookstore
+- [x] Implement a Restful Api to change book's category
+- [x] Unit Tests, Integration Tests expected
+- [x] Documentation your API(plus)
+- [ ] Use Docker to run in a container (plus)
